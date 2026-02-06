@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "セレナーデ",
+  "base_artist": "natori",
+  "createdAt": "2026-02-06T13:40:48.184032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムーンライト・セレナーデ",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/01_ムーンライト・セレナーデ_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ニューヨーク・シティ・セレナーデ",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/02_ニューヨーク・シティ・セレナーデ_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/03_グリーンライツ・セレナーデ_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グリーンライツ·セレナーデ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_グリーンライツ·セレナーデ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セレナーデ",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/05_セレナーデ_Uru.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハーフムーン・セレナーデ",
+      "artist": "河合奈保子",
+      "has_synced": true,
+      "path": "select/06_ハーフムーン・セレナーデ_河合奈保子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セレナーデ",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/07_セレナーデ_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "セレナーデ",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/08_セレナーデ_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "セレナーデ－愛しのアンブレラ -Sweety-",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/09_セレナーデ-愛しのアンブレラ_-Sweety-_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スターライト・セレナーデ",
+      "artist": "山瀬まみ",
+      "has_synced": false,
+      "path": "select/10_スターライト・セレナーデ_山瀬まみ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スターライト・セレナーデ",
+      "artist": "Yamase, Mami",
+      "has_synced": false,
+      "path": "select/11_スターライト・セレナーデ_Yamase,_Mami.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グリーンライツ・セレナーデ (MV ver.)",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/12_グリーンライツ・セレナーデ_(MV_ver.)_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハーフムーン・セレナーデ",
+      "artist": "河合奈保子",
+      "has_synced": true,
+      "path": "select/13_ハーフムーン・セレナーデ_河合奈保子.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オルゴール・セレナーデ",
+      "artist": "Minamino, Youko",
+      "has_synced": true,
+      "path": "select/14_オルゴール・セレナーデ_Minamino,_Youko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "グリーンライツ·セレナーデ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/15_グリーンライツ·セレナーデ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "セレナーデ",
+      "artist": "Ritsuko Okazaki",
+      "has_synced": false,
+      "path": "select/16_セレナーデ_Ritsuko_Okazaki.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "いっそ セレナーデ",
+      "artist": "井上陽水",
+      "has_synced": true,
+      "path": "select/17_いっそ_セレナーデ_井上陽水.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セレナーデ",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_セレナーデ_なとり.txt"
+    }
+  ]
+}
